@@ -21,3 +21,11 @@ ola = o(ola)
 ola = u(ola)
 
 print(ola)
+
+# x = Change(anime)
+# x.a()
+# x.e()
+# x.i()
+# x.o()
+# x.u()
+# print(x)
